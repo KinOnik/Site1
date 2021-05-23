@@ -19,6 +19,6 @@ function pustite(){
 	if (pass.value == '1234' && login.value == 'KinOn') {
   	document.location.href ="news.html";
   } else {
-  	alert('Логин или Пароль введены не верно!');
+  	alert('Логин или Пароль введены неверно!');
   }
 }
